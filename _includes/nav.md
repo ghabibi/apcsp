@@ -12,4 +12,4 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
+* [Syllabus](https://drive.google.com/file/d/1xzBc5e8rr5VKLz6gAJ5Pv4imetQWVHzS/view?usp=sharing)
