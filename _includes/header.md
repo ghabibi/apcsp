@@ -1,4 +1,4 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [AP Computer Science Principles]({{ "/" | relative_url }})
 
-Harvard University\\
-2019–2020
+Lindenhurst High School\\
+2020/2021 School Year
